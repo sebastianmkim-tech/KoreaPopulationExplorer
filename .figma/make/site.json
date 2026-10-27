@@ -1,0 +1,10 @@
+{
+  "description": "Explore South Korea’s registered population by district with interactive trends, regional comparisons, and key statistics to understand population change over time.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
